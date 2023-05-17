@@ -1,0 +1,29 @@
+{
+  "name": "Snowflake-Radio-Api",
+  "version": "1.0.0",
+  "description": "I was bored okay?",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Zirmith/Snowflake-Radio-Api.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Zirmith/Snowflake-Radio-Api/issues"
+  },
+  "homepage": "https://github.com/Zirmith/Snowflake-Radio-Api#readme",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "getmac": "^5.20.0",
+    "request-ip": "^3.3.0",
+    "request-promise-native": "^1.0.9",
+    "uuid": "^9.0.0"
+  }
+}
